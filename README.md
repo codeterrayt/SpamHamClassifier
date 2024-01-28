@@ -34,7 +34,7 @@ This Spam Ham Classifier utilizes Python and Flask to provide predictions on mes
     - Execute the Flask application:
 
         ```bash
-        python app.py
+        python main.py
         ```
 
     - Open your browser and navigate to `http://localhost:{port}` to use the Spam Ham Classifier.
@@ -49,7 +49,7 @@ This Spam Ham Classifier utilizes Python and Flask to provide predictions on mes
 
 ## File Structure
 
-- `app.py`: Main Flask application file.
+- `main.py`: Main Flask application file.
 - `templates/`: Folder containing HTML templates for the web application.
 - `static/`: Folder containing static files (CSS, images, etc.).
 
